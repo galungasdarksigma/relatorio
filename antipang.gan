@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2024-09-01" view-index="2" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="pt_PT">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2024-09-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="pt_PT">
     <description/>
     <view zooming-state="default:9" id="gantt-chart">
         <field id="tpd15" name="Notas" width="20" order="-1"/>
@@ -48,7 +48,7 @@
         <task id="5" uid="6a2f59e9bdc1426daa6836b227271920" name="implementar animação" meeting="false" start="2025-02-03" duration="11" complete="0" expand="true"/>
         <task id="6" uid="87eb54714fce42a3bda3edfabc79ae67" name="adicionar NPCs" meeting="false" start="2025-02-17" duration="10" complete="0" expand="true"/>
         <task id="7" uid="adb54e16ba2440f8b7d5f9b474284076" name="criação do inimigo chefão" meeting="false" start="2025-03-03" duration="10" complete="0" expand="true"/>
-        <task id="8" uid="faa102960be942a790ce43fb9fdbbdb2" name="toques finais" meeting="false" start="2025-03-17" duration="11" complete="0" expand="true"/>
+        <task id="8" uid="faa102960be942a790ce43fb9fdbbdb2" name="criação dos niveis" meeting="false" start="2025-03-17" duration="11" complete="0" expand="true"/>
         <task id="9" uid="ab5f5ec17b88487dbf17fe6d829e01a6" name="toques finais extra" meeting="false" start="2025-04-01" duration="4" complete="0" expand="true"/>
     </tasks>
     <resources/>
