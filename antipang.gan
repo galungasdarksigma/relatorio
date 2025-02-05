@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2024-10-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="pt_PT">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2024-09-01" view-index="2" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="pt_PT">
     <description/>
     <view zooming-state="default:9" id="gantt-chart">
+        <field id="tpd15" name="Notas" width="20" order="-1"/>
         <field id="tpd3" name="Nome" width="200" order="0"/>
         <field id="tpd4" name="Data de início" width="75" order="1"/>
         <field id="tpd5" name="Data de fim" width="75" order="2"/>
-        <field id="tpd15" name="Notas" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
@@ -38,14 +38,16 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="2e86846f3eab4acfaa2813a530f4290c" name="criar texturas e modelos" meeting="false" start="2024-10-01" duration="23" complete="0" expand="true"/>
+        <task id="0" uid="2e86846f3eab4acfaa2813a530f4290c" name="criar texturas e modelos essenciais" meeting="false" start="2024-10-01" duration="23" complete="0" expand="true"/>
+        <task id="10" uid="4c331915a54a43c38bba1e1f6d5327ed" name="texturas e modelos extra" meeting="false" start="2024-11-04" duration="110" complete="0" expand="true"/>
         <task id="1" uid="c25608c499b9482395dd9e8f7687f131" name="implementar movimento" meeting="false" start="2024-11-01" duration="21" complete="0" expand="true"/>
-        <task id="2" uid="0640bbc377cd45d5ac1ff4358f3a3ac5" name="fazer trilha sonora" meeting="false" start="2024-12-02" duration="22" complete="0" expand="true"/>
-        <task id="3" uid="3250f4cfa6de4584ab3598caccdf273e" name="adicionar inimigo base" meeting="false" start="2025-01-01" duration="11" complete="0" expand="true"/>
-        <task id="4" uid="32befa53e68f44969af6439dc9556618" name="adicionar animações" meeting="false" start="2025-01-15" duration="13" complete="0" expand="true"/>
-        <task id="5" uid="6a2f59e9bdc1426daa6836b227271920" name="implementar novos tipos de inimigos" meeting="false" start="2025-02-03" duration="11" complete="0" expand="true"/>
-        <task id="6" uid="87eb54714fce42a3bda3edfabc79ae67" name="criar menu principal" meeting="false" start="2025-02-17" duration="10" complete="0" expand="true"/>
-        <task id="7" uid="adb54e16ba2440f8b7d5f9b474284076" name="criação do HUD" meeting="false" start="2025-03-03" duration="10" complete="0" expand="true"/>
+        <task id="2" uid="0640bbc377cd45d5ac1ff4358f3a3ac5" name="criação do HUD" meeting="false" start="2024-12-02" duration="22" complete="0" expand="true"/>
+        <task id="3" uid="3250f4cfa6de4584ab3598caccdf273e" name="adicionar inimigo base" meeting="false" start="2025-02-03" duration="14" complete="0" expand="true"/>
+        <task id="4" uid="32befa53e68f44969af6439dc9556618" name="criação do menu principal" meeting="false" start="2025-01-15" duration="13" complete="0" expand="true"/>
+        <task id="11" uid="807b4f8f726d45668b42d7207caad596" name="efeitos sonoros" meeting="false" start="2024-12-05" duration="87" complete="0" expand="true"/>
+        <task id="5" uid="6a2f59e9bdc1426daa6836b227271920" name="implementar animação" meeting="false" start="2025-02-03" duration="11" complete="0" expand="true"/>
+        <task id="6" uid="87eb54714fce42a3bda3edfabc79ae67" name="adicionar NPCs" meeting="false" start="2025-02-17" duration="10" complete="0" expand="true"/>
+        <task id="7" uid="adb54e16ba2440f8b7d5f9b474284076" name="criação do inimigo chefão" meeting="false" start="2025-03-03" duration="10" complete="0" expand="true"/>
         <task id="8" uid="faa102960be942a790ce43fb9fdbbdb2" name="toques finais" meeting="false" start="2025-03-17" duration="11" complete="0" expand="true"/>
         <task id="9" uid="ab5f5ec17b88487dbf17fe6d829e01a6" name="toques finais extra" meeting="false" start="2025-04-01" duration="4" complete="0" expand="true"/>
     </tasks>
